@@ -1,0 +1,17 @@
+{
+  "name": "atividade-planeta",
+  "version": "1.0.0",
+  "description": "Projeto para resolução da atividade de back-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SENAI",
+    "NodeJS",
+    "Javascript",
+    "back-end"
+  ],
+  "author": "Luana Domeneghetti Dev",
+  "license": "MIT"
+}
